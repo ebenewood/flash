@@ -1,0 +1,13 @@
+#img-show {
+  display: none;
+}
+
+.clicker{
+  cursor: pointer;
+  color: green;
+
+}
+
+.clicker:hover {
+  text-decoration: underline;
+}
