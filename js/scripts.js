@@ -13,9 +13,15 @@
 //   });
 // });
 
+// $(function() {
+//   $(".clicker").click(function() {
+//     $("#img-show").toggle(fadeIn);
+//     $("#img-hid").toggle(fadeOut);
+//   });
+// });
+
 $(function() {
-  $(".clicker").click(function() {
-    $("#img-show").toggle(fadeIn);
-    $("#img-hid").toggle(fadeOut);
+  $("#mod").click(function() {
+    alert("an object-oriented computer programming language commonly used to create interactive effects within web browsers.");
   });
 });
